@@ -20,11 +20,10 @@ body{
     width: 100%;
     overflow: hidden;
 /*     background: url("https://images.alphacoders.com/127/1275722.jpg") center top/cover; */
-    background: url("assets/wallpapers/Windows 11 Wallpaper 2.jpg") center top/cover;
-    background: url("assets/wallpapers/Windows 11 Wallpaper 3.jpg") center top/cover;
-    background: url("assets/wallpapers/Windows 11 Wallpaper 4.jpg") center top/cover;
-    background: url("assets/wallpapers/Windows 11 Wallpaper 5.jpg") center top/cover;
-
+    /* background: url("assets/wallpapers/Windows 11 Wallpaper 2.jpg") center top/cover; */
+    /* background: url("assets/wallpapers/Windows 11 Wallpaper 3.gif") center top/cover; */
+    /* background: url("assets/wallpapers/Windows 11 Wallpaper 4.jpg") center top/cover; */
+    background: url("assets/wallpapers/Windows 11 Wallpaper 5.gif") center top/cover;
 }
 
 .taskbar{
