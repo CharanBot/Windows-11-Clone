@@ -29,8 +29,8 @@ git clone https://github.com/CharanBot/Windows-11-Clone.git
 Here's an overview of the project structure:
 
 - `index.html`: The main HTML file that renders the Windows 11 desktop interface.
-- `css/`: This folder contains CSS stylesheets for styling the interface.
-- `js/`: This folder contains JavaScript files for implementing the functionality of the start menu, date and time, and other features.
+- `style.css/`: This folder contains CSS stylesheets for styling the interface.
+- `main.js/`: This folder contains JavaScript files for implementing the functionality of the start menu, date and time, and other features.
 
 ## Contributing
 
