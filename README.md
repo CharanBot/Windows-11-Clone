@@ -18,7 +18,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/windows-11-clone.git
+git clone https://github.com/CharanBot/Windows-11-Clone.git
 
 2. Open the project folder:
 
